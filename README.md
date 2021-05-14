@@ -1,2 +1,2 @@
 # quiz
-https://godkronos1.github.io/quiz/index.html
+https://robert-gherman.github.io/quiz/index.html
